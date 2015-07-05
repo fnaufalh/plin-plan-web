@@ -1,0 +1,21 @@
+Easy:
+	users, (fix) v
+	
+	ekskul, (rendi) v
+	guru, (sabli) v
+	kelas, (dayat) v
+	siswa, (faisal) v
+	prestasi, (faisal) v
+	level_user, (dayat) v
+	mata_pelajaran, (sabli) v
+	master_pembayaran (rendi) v
+
+Medium:
+	nilai_akademik, (rendi, sabli)v
+	nilai_ekskul, (dayat, faisal)v
+
+Hard:
+	guru_has_mata_pelajaran, 
+	siswa_has_master_pembayaran,
+	siswa_has_ekskul,
+	siswa_has_prestasi,

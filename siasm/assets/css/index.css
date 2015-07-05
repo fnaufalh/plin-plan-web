@@ -1,0 +1,54 @@
+body{
+	font-family: Rockwell, velvetica, sans-serif;
+	color: white;
+	background-color: #f2f2f2;
+}
+.head img{
+	margin-left: 10px;
+	margin-top: 3px;
+	max-height: 250px;
+	max-width: 250px;
+}
+.head p{
+	padding-top: 10px;
+}
+.icon{
+	max-width: 35px;
+	max-height: 35px;
+	float: left;
+}
+.konten1{
+	margin-top: -20px;
+}
+div table{
+	color: black;
+	margin-top: 20px;
+}
+.logo{
+	margin-right: 30px;
+}
+.btn-logout{
+	margin-left: 20px;
+}
+.sidekiri{
+	position: fixed;
+	background-color: navy;
+}
+li{
+	list-style-type: none;
+	padding-left: 20px;
+}
+footer{
+	margin-top: -20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.bar{
+	padding-bottom: 10px;
+}
+.konten{
+	background-color: white;
+}
+.konten a{
+	margin-top: 10px;
+}
